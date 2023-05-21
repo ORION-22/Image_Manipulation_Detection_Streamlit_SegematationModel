@@ -1,0 +1,32 @@
+[data-testid=metric-container] {
+    box-shadow: 0 0 3px #cccccc;
+    padding: 10px;
+}
+
+.plot-container>div {
+    box-shadow: 0 0 3px #cccccc;
+}
+
+[data-testid="stAppViewContainer"]{
+    background-image:url("https://r4.wallpaperflare.com/wallpaper/542/50/545/simple-background-blue-simple-minimalism-wallpaper-6f8cd2ff7d993518a77d9204a4f35000.jpg");
+    background-size:cover;
+
+}
+
+[data-testid="stHeader"]{
+    background: rgba(0,0,0,0);
+}
+[data-testid=stSidebar] {
+background-color: rgba(0,0,0, 0.4);
+filter: blur
+}
+
+[data-testid="stImage"]{
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+}
+
+#image-manipulation-detection-using-cnn{
+text-align: center;
+}
