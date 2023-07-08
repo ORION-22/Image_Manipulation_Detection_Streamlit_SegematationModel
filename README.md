@@ -13,6 +13,11 @@ Image Manipulation Detection Streamlit SegmentationModel is a project that aims 
 - Manipulation detection: The segmented image regions are analyzed to detect potential areas of manipulation or tampering.
 - Visualization: The detected manipulated regions are highlighted and visualized on the original image, allowing users to easily identify the manipulated areas.
 
+## Demonstration
+
+https://github.com/ORION-22/Image_Manipulation_Detection_Streamlit_SegematationModel/assets/68912454/38815c52-71a6-41cb-bb12-d1be4116b0f9
+
+
 ## Installation
 
 To run the application locally, follow these steps:
