@@ -72,3 +72,6 @@ Feel free to explore, use, and contribute to this image manipulation detection p
 
 ## Collaborator
 1. Onasvee Banarse
+2. Harsh Shah
+3. Kaustubh Kabra
+4. Akash Mete
