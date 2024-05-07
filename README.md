@@ -70,3 +70,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 Feel free to explore, use, and contribute to this image manipulation detection project! We appreciate your support and hope it proves useful in identifying potential tampering in images.
 
+## Collaborator
+1. Onasvee Banarse
